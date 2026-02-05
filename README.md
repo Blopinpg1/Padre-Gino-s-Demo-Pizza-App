@@ -7,6 +7,7 @@ A small React + Vite demo project (from Brian Holt's "Complete Intro to React v9
 - Frontend: React, Vite
 - Backend: Fastify (example API in `backend/api`)
 - Testing: Vitest, @testing-library/react
+- Routing: TanStack Router (@tanstack/react-router)
 
 ## Repo layout
 
@@ -80,4 +81,3 @@ Tests live under `src/__tests__/` and include both node and browser-targeted exa
 
 - Source/author: Brian Holt (Frontend Masters course materials).
 - The project is intended as an educational demo. Adapt scripts/config for production as needed.
-
