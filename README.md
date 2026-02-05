@@ -81,4 +81,3 @@ Tests live under `src/__tests__/` and include both node and browser-targeted exa
 - Source/author: Brian Holt (Frontend Masters course materials).
 - The project is intended as an educational demo. Adapt scripts/config for production as needed.
 
-If you'd like, I can add a `concurrently`-based `start` script to run backend+frontend together or add CI config. Tell me what you'd prefer.
